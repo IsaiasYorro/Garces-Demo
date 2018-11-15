@@ -1,0 +1,28 @@
+body {
+	padding-top: 70px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.navbar-brand {
+	border-right: 10%;
+}
+
+.navbar-default {
+	background-color: gray;
+}
+
+img {
+    width: 100%;
+    margin: 1.66%;
+}
+
+.Food {
+	background-image: url(images/carousel_slide1.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.orange {
+	background-color: C55706;
+}
